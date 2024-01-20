@@ -1,4 +1,4 @@
- **# PDF Chatbot with Retrieval Augmented Generation (Llama-2 7b) 
+ **# PDF Chatbot with Retrieval Augmented Generation (Llama-2 7b)**
 
 **## Overview**
 
